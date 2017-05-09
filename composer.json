@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "kikusempai/mpdf": "<7.0"
+        "kikusempai/mpdf": "v7.0.0-beta3"
     },
     "autoload": {
         "psr-4": {
