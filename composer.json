@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "mpdf/mpdf": "<7.0"
+        "kikusempai/mpdf": "<7.0"
     },
     "autoload": {
         "psr-4": {
